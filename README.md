@@ -25,6 +25,7 @@
   <span style="display:block; font-size:2.5em;">
     🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
     🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> 
+    
   
   </span>
 
@@ -34,6 +35,26 @@
   </a>
 </p>
 
+</div>
+
+
+---
+
+<div align="center" style="margin-top: 20px;">
+  <a href="YOUR_PDF_LINK_HERE" download>
+    <button style="
+      background-color: #4CAF50; 
+      color: white; 
+      padding: 15px 30px; 
+      font-size: 1.5em; 
+      font-weight: bold; 
+      border: none; 
+      border-radius: 8px; 
+      cursor: pointer;
+    ">
+      ИЗТЕГЛИ РЕСЮМЕ
+    </button>
+  </a>
 </div>
 
 
