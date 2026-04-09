@@ -1,7 +1,6 @@
 
   
 
-
 <div align="center">
   <h1><b>MIHAELA KOSEVA</b></h1>
 
