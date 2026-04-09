@@ -3,6 +3,10 @@
 <p align="center">
 <h1>MIHAELA KOSEVA</h1>  
 
+<p align="center">
+<h1><b>MIHAELA KOSEVA</b></h1>
+</p>
+
 ---
   
 # <span style="display:block; font-size:1.2em; font-weight:bold; margin-top:0.2em;">Junior Data Analyst & Software Engineer</span>
