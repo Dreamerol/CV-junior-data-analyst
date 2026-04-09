@@ -165,12 +165,12 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ## 💻 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
 
-**Machine Learning & AI 🤖:** Neural Networks, Regression, Classification, Model Evaluation, Feature Engineering, Scikit-learn, LLM Basics  
-**Backend Development 🖥️:** Java ☕, Python 🐍, REST APIs 🔗, API Integrations, Microservices Concepts 🏗️, Spring Boot Basics  
-**Frontend Development 🌐:** JavaScript, HTML5, CSS3, Responsive Web Design 🖌️  
-**Functional Programming ⚡:** Clojure, ClojureScript, Python (Functional)  
-**Databases 🗄️:** SQL, Relational Databases, Query Optimization, Data Modeling  
-**Tools & Practices 🛠️:** Git 🐙, Jupyter Notebook 📓, VS Code, Agile/Scrum 🏃‍♀️, OOP 🧩, Clean Code, Modular Architecture, Scalable Systems Design
+**🤖 Machine Learning & AI:** Neural Networks, Regression, Classification, Model Evaluation, Feature Engineering, Scikit-learn, LLM Basics  
+**🖥️ Backend Development:** Java ☕, Python 🐍, REST APIs 🔗, API Integrations, Microservices Concepts 🏗️, Spring Boot Basics  
+**🌐 Frontend Development:** JavaScript, HTML5, CSS3, Responsive Web Design 🖌️  
+**⚡ Functional Programming:** Clojure, ClojureScript, Python (Functional)  
+**🗄️ Databases:** SQL, Relational Databases, Query Optimization, Data Modeling  
+**🛠️ Tools & Practices:** Git 🐙, Jupyter Notebook 📓, VS Code, Agile/Scrum 🏃‍♀️, OOP 🧩, Clean Code, Modular Architecture, Scalable Systems Design
 
 ---
 
