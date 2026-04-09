@@ -4,6 +4,8 @@
 
 <div align="center">
   <h1><b>MIHAELA KOSEVA</b></h1>
+
+  </div> 
   
 
 <div align="center">
@@ -19,7 +21,8 @@
 📄 <a href="https://github.com/Dreamerol/Junior-Data-Analyst/tree/main">Resume</a>
 </span>
 
-</div>
+</div> 
+
 ---
 
 ![Functional Programming](https://github.com/Dreamerol/Dreamerol/blob/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png)
