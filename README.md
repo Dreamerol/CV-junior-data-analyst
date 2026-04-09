@@ -1,4 +1,4 @@
-# Resume-junior-data-analyst-mihaela-koseva
+# Junior-data-analyst-Mihaela-Koseva
 
 <p align="center">
   
