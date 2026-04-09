@@ -54,10 +54,12 @@
 <img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
 </p>
 
+
+</div>
+
 ---
 
 
----
 
 ## 📝 SUMMARY
 
