@@ -46,9 +46,10 @@ architecture, cloud technologies, and enterprise-grade systems.
 - Developed mini-projects and exercises simulating real-world enterprise applications.  
 - GitHub Repo: [ZigiWave Intern Projects](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
+---
+
 𝗧𝗲𝗮𝗺: 𝗖𝗼𝗿𝗲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 & 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻𝘀 
 Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝗶𝗰 and 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝗿𝗲, focusing on high-performance data transfer, transformation, and synchronization between independent systems, using and leveraging 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 for scalable solutions.
-
 
 <p align="left">
 <b>
