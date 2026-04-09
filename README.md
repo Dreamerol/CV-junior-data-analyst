@@ -55,6 +55,20 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 ---
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+</p>
+
+
+---
+
 ## 💼 PROFESSIONAL EXPERIENCE
 
 **Software Development Intern — ZigiWave, Sofia | Sep 2025 – Feb 2026**  
@@ -82,6 +96,21 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ---
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+</p>
+
+
+---
+
+
 ## 🛠️ SELECTED PROJECTS
 
 ### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
@@ -106,6 +135,19 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ---
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+</p>
+
+---
+
 ## 💻 KEY SKILLS
 
 **Machine Learning & AI 🤖:** Neural Networks, Regression, Classification, Model Evaluation, Feature Engineering, Scikit-learn, LLM Basics  
@@ -117,6 +159,19 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ---
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+</p>
+
+---
+
 ## 📚 EDUCATION
 **Sofia University (FMI)** — Bachelor’s in Software Engineering  
 Oct 2024 – Present  
@@ -125,10 +180,36 @@ Oct 2024 – Present
 
 ---
 
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+</p>
+
+---
+
 ## 🏅 CERTIFICATIONS & COURSES
 - Data Science — SoftUni 📊  
 - Mathematical Concepts for Developers — SoftUni 🧮  
 - Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
+
+---
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+</p>
 
 ---
 
