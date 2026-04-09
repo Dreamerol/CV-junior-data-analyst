@@ -4,6 +4,7 @@
   
 # <span style="font-size:1.2em;"><b>Junior Data Analyst & Software Engineer</b></span><br><br>
 ## <span style="font-size:1.1em;"><b>📍 Sofia, Bulgaria | 📞 +359 89 764 3552 | ✉️ michaelakoseva@gmail.com</b></span><br> 
+
 ## <span style="font-size:1.1em;"><b>🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">LinkedIn</a> | 🐙 <a href="https://github.com/Dreamerol">GitHub</a></b></span>
 
 </p>
