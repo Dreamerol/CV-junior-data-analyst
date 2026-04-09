@@ -130,31 +130,16 @@ architecture, cloud technologies, and enterprise-grade systems.
 
 𝗞𝗘𝗬 𝗦𝗞𝗜𝗟𝗟𝗦 & 𝗙𝗢𝗖𝗨𝗦 𝗔𝗥𝗘𝗔𝗦:
 
+</div>
+
 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 ⚙️ – DEVELOPING EFFICIENT, REUSABLE ALGORITHMIC SOLUTIONS
 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 🔗 – ENSURING SEAMLESS COMMUNICATION BETWEEN INDEPENDENT SYSTEMS
 𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦 ⚡ – DESIGNING PIPELINES FOR HIGH-PERFORMANCE DATA PROCESSING
 
-𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 @ ZIGIWAVE
-FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCUSED ON HIGH-PERFORMANCE DATA TRANSFER, TRANSFORMATION, AND SYNCHRONIZATION. LEVERAGED CLOJURE TO BUILD SCALABLE, MAINTAINABLE SOLUTIONS.
-
----
-
-### ⚡ 𝗥𝗢𝗟𝗘 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
-
-𝗝𝗨𝗡𝗜𝗢𝗥 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 (𝗜𝗡𝗧𝗘𝗥𝗡)  
-𝗙𝗢𝗖𝗨𝗦: 𝗝𝗔𝗩𝗔, 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 & 𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦  
-
-𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 ⚙️  
-𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 🔗  
-𝗦𝗖𝗔𝗟𝗔𝗕𝗟𝗘 𝗗𝗔𝗧𝗔 𝗣𝗜𝗣𝗘𝗟𝗜𝗡𝗘𝗦 ⚡
-
 </div>
 
-<span style="font-weight:bold; display:block; margin-top:1em;">
-𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 @ ZigiWave
-</span>
-
-Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝗶𝗰 and 𝗳𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹 𝗰𝗼𝗿𝗲, focusing on high-performance data transfer, transformation, and synchronization between independent systems, leveraging 𝗖𝗹𝗼𝗷𝘂𝗿𝗲 for scalable solutions.
+𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦 @ ZIGIWAVE
+FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCUSED ON HIGH-PERFORMANCE DATA TRANSFER, TRANSFORMATION, AND SYNCHRONIZATION. LEVERAGED CLOJURE TO BUILD SCALABLE, MAINTAINABLE SOLUTIONS.
 
 
 ---
