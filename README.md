@@ -15,7 +15,7 @@
 
 ---
 
-## SUMMARY
+## 📝 SUMMARY
 
 Software Engineering student at Sofia University (FMI) with a strong foundation in algorithms, problem-solving, 
 and analytical thinking, developed at Sofia Mathematical High School (SMG).
