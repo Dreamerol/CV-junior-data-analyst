@@ -38,24 +38,12 @@
 </div>
 
 
----
 
-<div align="center" style="margin-top: 20px;">
-  <a href="YOUR_PDF_LINK_HERE" download>
-    <button style="
-      background-color: #4CAF50; 
-      color: white; 
-      padding: 15px 30px; 
-      font-size: 1.5em; 
-      font-weight: bold; 
-      border: none; 
-      border-radius: 8px; 
-      cursor: pointer;
-    ">
-      ИЗТЕГЛИ РЕСЮМЕ
-    </button>
+<p align="center">
+  <a href="https://github.com/Dreamerol/Dreamerol/raw/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png" download>
+    <img src="https://img.shields.io/badge/📄_ИЗТЕГЛИ_PNG-blue?style=for-the-badge&logo=image&logoColor=white" alt="Download PNG">
   </a>
-</div>
+</p>
 
 
 ---
