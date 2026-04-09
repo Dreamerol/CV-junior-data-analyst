@@ -106,7 +106,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 - Built and enhanced **core platform features** using **𝗝𝗔𝗩𝗔**, **𝗖𝗟𝗢𝗝𝗨𝗥𝗘**, and **𝗔𝗣𝗜 𝗦𝗬𝗦𝗧𝗘𝗠𝗦**  
 - Developed and maintained **scalable data pipelines** and **system integrations** powering enterprise-level workflows  
 - Implemented **core algorithms and functional modules** contributing directly to product performance and reliability  
-- GitHub Repo: 👉 [𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+- GitHub Repo: 👉 [𝗔𝗣𝗜 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
 </div>
