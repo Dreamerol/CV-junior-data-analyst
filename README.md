@@ -94,9 +94,11 @@
 ---
 
     
+---
+
 <div align="center">
 
-# 🟢 PROJECTS
+## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 </div>
 
