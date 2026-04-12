@@ -1,20 +1,14 @@
 
----
-
 # <p align="center"><b>𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔</b></p>
 
 
+<h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
+
 ---
 
-<p align="center">
-  <b>
-    <a href="https://github.com/Dreamerol" target="_blank">
-      𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
-    </a>
-  </b>
-</p>
 
-<h2 align="center"> <strong><em>Data Analyst & SWE Engineer | Algorithms & DS | Data, ML | Python, C++, SQL | APIs</em></strong> </h2>
+![my-banner](Banner-SMALL.png)
+
 
 ---
 
