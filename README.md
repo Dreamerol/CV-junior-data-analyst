@@ -52,9 +52,10 @@
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository</em></strong>
+    <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
+
 
 
 ---
@@ -261,11 +262,14 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 ---
 
+
+
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository</em></strong>
+    <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
+
 
 
 ---
@@ -484,9 +488,10 @@ Oct 2024 – Present
 
 <h3 align="center">
   <a href="https://github.com/Dreamerol/SOFTWARE-PORTFOLIO-2026">
-    <strong><em>⭐ Click any badge to view its GitHub repository</em></strong>
+    <strong><em>✨ Click any badge to view project</em></strong>
   </a>
 </h3>
+
 
 
 ---
