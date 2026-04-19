@@ -596,19 +596,8 @@ Oct 2024 – Present
 
 </div>
 
----
 
 
-<div align="center">
-
-### 📫 CONTACT
-
-📍 Sofia, Bulgaria  
-✉️ michaelakoseva@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mihaela-koseva  
-🐙 GitHub: https://github.com/Dreamerol  
-
-</div>
 
 ---
 
