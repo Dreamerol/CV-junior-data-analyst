@@ -407,7 +407,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 - Enabled KPI tracking & **data-driven insights**.
 
 ### [🌐 SOFTWARE PORTFOLIO](https://github.com/Dreamerol/SOFTWARE-PORTFOLIO) (HTML, CSS, JavaScript)
-- 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 linking repositories.
+- 🟢 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 – this section contains 𝗰𝗹𝗶𝗰𝗸𝗮𝗯𝗹𝗲 𝗯𝗮𝗱𝗴𝗲𝘀 & images linking repositories.
 - Personal developer portfolio showcasing projects, skills & achievements.  
 - Fully responsive UI with modern UI/UX design principles.  
 - Central hub linking all repositories and professional profiles.
