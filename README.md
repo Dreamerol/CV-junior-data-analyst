@@ -50,16 +50,17 @@
 
 
 <h2 align="center">
-𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚
+𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗧 • 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥
 </h2>
 
-<h3 align="center" style="font-size:18px; line-height:1.8;">
-Algorithms • Data Structures • System Design • APIs • SQL • Python • Java • Clojure
+<h3 align="center">
+Python • SQL • Data Analysis • Machine Learning
 </h3>
 
 <h3 align="center">
-✨ Data ✦ AI ✦ Software Engineering ✦ Turning ideas into solutions ✨
+From raw data to actionable insights and scalable systems
 </h3>
+
 
 
 
