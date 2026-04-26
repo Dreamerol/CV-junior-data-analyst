@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2 align="center">
 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜 
-</h1>
+</h2>
 
 
 ![](https://github.com/Dreamerol/Dreamerol/blob/f2f60bdbf5f8016ba3497e311f598e7a5783a05d/!!!!!!!!!!!!!!!!!!_BANNER777.png)
