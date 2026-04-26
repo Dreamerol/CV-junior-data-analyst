@@ -10,11 +10,10 @@
 
 <div align="center">
 
-  <span style="display:block; font-size:2.5em; margin-top:0.5em;">
-    📍 𝗦𝗢𝗙𝗜𝗔
+ 📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
   </span>
-
   <span style="display:block; font-size:2.5em;">
+  </span> <span style="display:block; font-size:2.5em;">
     ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
   </span>
 
