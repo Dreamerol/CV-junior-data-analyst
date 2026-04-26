@@ -169,15 +169,13 @@ From raw data to actionable insights and scalable systems
 
 
 
-𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐒𝐨𝐟𝐢𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 “𝐒𝐭. 𝐊𝐥𝐢𝐦𝐞𝐧𝐭 𝐎𝐡𝐫𝐢𝐝𝐬𝐤𝐢” (𝐅𝐌𝐈) 𝐰𝐢𝐭𝐡 𝐚 𝐬𝐭𝐫𝐨𝐧𝐠 𝐛𝐚𝐜𝐤𝐠𝐫𝐨𝐮𝐧𝐝 𝐢𝐧 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬, 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠, 𝐚𝐧𝐝 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠, 𝐛𝐮𝐢𝐥𝐭 𝐚𝐭 𝐒𝐨𝐟𝐢𝐚 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐇𝐢𝐠𝐡 𝐒𝐜𝐡𝐨𝐨𝐥 (𝐒𝐌𝐆).
+𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐒𝐨𝐟𝐢𝐚 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 “𝐒𝐭. 𝐊𝐥𝐢𝐦𝐞𝐧𝐭 𝐎𝐡𝐫𝐢𝐝𝐬𝐤𝐢” (𝐅𝐌𝐈), with a strong foundation in algorithms, problem-solving, and analytical thinking, developed at Sofia Mathematical High School (SMG).
 
-𝗛𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗶𝗻 𝗱𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗶𝗻𝗴 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀, 𝗗𝗮𝘁𝗮 𝗣𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀, 𝗮𝗻𝗱 𝗔𝗣𝗜-𝗱𝗿𝗶𝘃𝗲𝗻 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀
-𝘂𝘀𝗶𝗻𝗴 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗝𝗮𝘃𝗮, 𝗮𝗻𝗱 𝗖𝗹𝗼𝗷𝘂𝗿𝗲, 𝘀𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝗲𝗻𝗲𝗱 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 𝗮𝘀 𝗮 𝗝𝘂𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 (𝗜𝗻𝘁𝗲𝗿𝗻) 𝗮𝘁 𝗭𝗶𝗴𝗶𝗪𝗮𝘃𝗲.
+𝗛𝗮𝗻𝗱𝘀-𝗼𝗻 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 in designing and building backend systems, data pipelines, and API-driven applications using Python, Java, and Clojure, strengthened through professional experience as a Junior Software Developer (Intern) at ZigiWave.
 
-𝗣𝗿𝗼𝘃𝗲𝗻 𝗮𝗯𝗶𝗹𝗶𝘁𝘆 𝘁𝗼 𝗯𝘂𝗶𝗹𝗱 𝘀𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗮𝗻𝗱 𝗺𝗼𝗱𝘂𝗹𝗮𝗿 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀, 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲 𝗥𝗘𝗦𝗧 𝗔𝗣𝗜𝘀, 𝗮𝗻𝗱 𝗮𝗽𝗽𝗹𝘆 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹𝘀
-(𝗶𝗻𝗰𝗹𝘂𝗱𝗶𝗻𝗴 𝗡𝗲𝘂𝗿𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗣𝗿𝗲𝗱𝗶𝗰𝘁𝗶𝘃𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀) 𝘁𝗼 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗽𝗿𝗼𝗯𝗹𝗲𝗺𝘀.
+𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗼𝗻 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲, with experience applying Neural Networks, Predictive Analytics, and statistical modeling to real-world problems, alongside building scalable and modular systems integrated with REST APIs.
 
-𝗛𝗶𝗴𝗵𝗹𝘆 𝗺𝗼𝘁𝗶𝘃𝗮𝘁𝗲𝗱 𝘁𝗼 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲 𝘁𝗼 𝗲𝗻𝗱-𝘁𝗼-𝗲𝗻𝗱 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝘄𝗶𝘁𝗵 𝘀𝘁𝗿𝗼𝗻𝗴 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁 𝗶𝗻 𝗠𝗶𝗰𝗿𝗼𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀, 𝗮𝗻𝗱 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲-𝗚𝗿𝗮𝗱𝗲 𝗦𝘆𝘀𝘁𝗲𝗺𝘀.
+𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱 𝗶𝗻 end-to-end software and data-driven systems, with a strong focus on Microservices Architecture and enterprise-grade system design.
 
 
 
