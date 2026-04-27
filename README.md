@@ -583,14 +583,6 @@ Oct 2024 – Present
 
 
 
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
-<div align="center">
-
----
 
  📫 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 📍 𝗦𝗢𝗙𝗜𝗔
   </span>
