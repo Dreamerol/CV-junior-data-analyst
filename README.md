@@ -441,7 +441,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 **🌐 Frontend Development:** JavaScript, HTML5, CSS3, Responsive Web Design 🖌️  
 **⚡ Functional Programming:** Clojure, ClojureScript, Python (Functional)  
 **🗄️ Databases:** SQL, Relational Databases, Query Optimization, Data Modeling  
-**🛠️ Tools & Practices:** Git 🐙, Jupyter Notebook 📓, VS Code, Agile/Scrum 🏃‍♀️, OOP 🧩, Clean Code, Modular Architecture, Scalable Systems Design
+**🛠️ Tools & Practices:** Git 🐙, Jupyter Notebook 📓, VS Code, Agile/Scrum 🏃‍♀️, OOP 🧩, Clean Code, Modular Architecture, Scalable  Systems Design
 
 
 <br>
